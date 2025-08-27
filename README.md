@@ -1,5 +1,5 @@
 # README
-opa professor, para inicar o projeto vc precisa rodar o 
+opa, para inicar o projeto vc precisa rodar o 
 
 `npm i`
 
